@@ -22,5 +22,10 @@ select {
   font-size: large;
 }
 
+.frm-login {
+  max-width: 50%;
+  margin-left: 25%;
+}
+
 
 
