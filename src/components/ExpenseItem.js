@@ -7,7 +7,7 @@ const ExpenseItem = (props) => {
 
   const handleDeleteExpense = () => {
     dispatch({
-      type: "DELETE_EXPENSE",
+      type: "DELETE_EXPENSES",
       payload: props.id,
     });
   };
